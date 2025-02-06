@@ -1,2 +1,2 @@
 # JuSchG-9
-First little Project with panda and fuzz: Altersgruppen für Augaben des Musikfestes unter berücksichtigung des Jugenschutz
+First little Project with panda and fuzz: Altersgruppeneinteilung unter berücksichtigung des Jugenschutz
